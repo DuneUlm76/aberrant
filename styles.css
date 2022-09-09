@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(160, 0, 0);
+}
+h1, h3{
+    text-align: center;}
+footer{
+    text-align: right;
+    font-size: 18px;
+}
+h1, h3, footer{
+    text-shadow:
+#ffffff 1px 1px,
+#ffffff -1px 1px,
+#ffffff -1px -1px,
+#ffffff 1px -1px;
+}
+div{
+    text-align: center;
+}
