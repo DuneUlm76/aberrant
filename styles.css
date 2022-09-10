@@ -17,3 +17,6 @@ h1, h3, footer{
 div{
     text-align: center;
 }
+img{
+    border: 2px solid white;
+}
